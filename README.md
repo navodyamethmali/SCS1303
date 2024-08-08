@@ -1,2 +1,2 @@
 # SCS1303
-This is course introduction
+This is update file
